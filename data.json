@@ -1,0 +1,33 @@
+{
+    "general_information": {
+        "name": "Popescu Razvan",
+        "phone": "+40774435885",
+        "email": "popescurazvan176@gmail.com"
+    },
+    "experience": [
+        {
+            "position": "R&D Specialist",
+            "duration": "2019 - Present",
+            "company": "Evowise"
+        },
+        {
+            "position": "Programmer",
+            "duration": "2018 - 2019",
+            "company": "ExtendStudio"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master Degree",
+            "major": "Informatics",
+            "university": "Titu Maiorescu University",
+            "year": "2017-2018"
+        },
+        {
+            "degree": "Licentiate Degree",
+            "major": "Informatics",
+            "university": "Titu Maiorescu University",
+            "year": "2013-2016"
+        }
+    ]
+}
